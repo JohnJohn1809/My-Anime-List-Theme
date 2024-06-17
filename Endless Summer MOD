@@ -80,7 +80,7 @@ z-index: -1;
 
 body:before {
 background-color: #4d4d4d;
-background-image: url(https://cdn.discordapp.com/attachments/592893986977480725/688404150324690946/2fkAjfX.jpg);
+background-image: url(https://imgur.com/M8cTL1M);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
